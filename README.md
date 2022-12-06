@@ -1,2 +1,2 @@
 # qradar_api_18.0
-IBM QRadar API v18.0 endpoint documentation
+QRadar RESTful API endpoint documentation for API version 18.0
